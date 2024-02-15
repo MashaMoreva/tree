@@ -6,7 +6,7 @@ module.exports = {
   },
   output: {
     filename: "main.js",
-    publicPath: "/",
+    publicPath: "",
   },
   resolve: {
     extensions: [".ts", ".js"],
